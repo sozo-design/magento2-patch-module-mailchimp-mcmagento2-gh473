@@ -1,0 +1,7 @@
+{
+  "patches": {
+    "mailchimp/mc-magento2":{
+      "Mailchimp 1.1.32 Unable to unserialize group data":"../environments/global/patches/mailchimp/mc-magento2/1.1.32_unable_unserialize_value_for_interest_groups_v1.patch"
+    }
+  }
+}
